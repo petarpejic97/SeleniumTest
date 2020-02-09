@@ -7,13 +7,13 @@ Google chrome web driver was user in this project. It was set manually.
 
 ## Cases
 Login suit covered : 
-  -Login with registered username and valid password
-  -Login with registered username and false password
-  -Login with false username and valid password
+  - Login with registered username and valid password
+  - Login with registered username and false password
+  - Login with false username and valid password
   
  Search bar suit covered : 
-  -Searching words which are entered in search bar
-  -Searching when is in search bar entered something no sense
+  - Searching words which are entered in search bar
+  - Searching when is in search bar entered something no sense
   
 Advertisiment suit covered :
   - View already created advertisiment
