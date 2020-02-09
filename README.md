@@ -26,6 +26,7 @@ Advertisiment suit covered :
       -the product price changed
   
   All test cases passed.
+
   
  ## How to run cases ?
- For running cases we can type "mvn test" in IntelliJ terminal or we can click on run icon in top right corner.
+ For running cases we can type "mvn test" in IntelliJ terminal or we can click in right top corner on ![Run tests](https://cdn2.iconfinder.com/data/icons/hand-drawn-file-operations/128/run-512.png)
