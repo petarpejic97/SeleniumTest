@@ -17,13 +17,13 @@ Login suit covered :
  Search bar suit covered : 
   - Searching words which are entered in search bar
   - Searching when is in search bar entered something nonsense
-      -the word doesnt have any meaning
+      - the word doesnt have any meaning
   
 Advertisiment suit covered :
   - View already created advertisiment
-      -detailed view on advertisiment
+      - detailed view on advertisiment
   - Update already created advertisiment
-      -the product price changed
+      - the product price changed
   
   All test cases passed.
 
