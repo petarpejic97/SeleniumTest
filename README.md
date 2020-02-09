@@ -20,4 +20,4 @@ Advertisiment suit covered :
   - Update already created advertisiment
   
  ## How to run cases ?
- For running cases we can type "mvn test" in IntelliJ terminal or we can click on ![Run tests](https://www.iconfinder.com/icons/978327/movie_play_run_start_triangle_icon)
+ For running cases we can type "mvn test" in IntelliJ terminal or we can click on ![Run tests](https://cdn2.iconfinder.com/data/icons/hand-drawn-file-operations/128/run-512.png)
